@@ -65,8 +65,6 @@ void exclui(int n, Aluno alunos[], int i)
 
 }
 
-// commit teste
-
 int main(void)
 {
     Aluno *alunos;
